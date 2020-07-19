@@ -12,7 +12,7 @@
 <details>
   <summary>Some facts about me..</summary>
   <ul>
-    <li>I love video games 🎮 and play them in my spare time with friends.</li>
+    <li>I love video games 🎮 </li>
     <li>Music 🎶 is the only thing keeping me sane during this quarantine.</li>
     <li>My favourites 💛: </li>
        <ul>
