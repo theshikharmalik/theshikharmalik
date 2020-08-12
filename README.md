@@ -1,13 +1,22 @@
+<!--
 ### Hello there 👋
-
+I am a Computer Science Engineering Undergraduate studying at Delhi Technological University.
+-->
 <!--
 **shikharmaxx/shikharmaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
+<!--
 - 🔭 I’m currently working on ... Data stucture and Algorithm 
 - 🌱 I’m currently learning ... Web Development and NLP
+-->
 
+<p align="center">
+  <b>Hello there 👋</b>
+  <br>
+  I am a Computer Science Engineering Undergraduate studying at Delhi Technological University.
+  <br>
+  I'm currently learning Natural Language Processing
+</p>
 <!--
 <details>
   <summary>Some facts about me..</summary>
