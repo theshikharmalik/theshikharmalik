@@ -37,6 +37,9 @@ I am a Computer Science Engineering Undergraduate studying at Delhi Technologica
 <!--
 <a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 --> 
+  <br>
+  <br>
+  <br>
   <i>Lets connect and chat 😃</i>
   <br>
   <br>
