@@ -12,10 +12,11 @@ I am a Computer Science Engineering Undergraduate studying at Delhi Technologica
 
 <p align="center">
   <b>Hello there 👋</b>
-  <br>
+  <br><br>
   I am a Computer Science Engineering Undergraduate studying at Delhi Technological University.
   <br>
   I'm currently learning Natural Language Processing
+  <br>
 </p>
 <!--
 <details>
