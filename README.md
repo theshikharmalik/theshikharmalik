@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on ... Data stucture and Algorithm 
 - 🌱 I’m currently learning ... Web Development and NLP
 
-
+<!--
 <details>
   <summary>Some facts about me..</summary>
   <ul>
@@ -22,7 +22,7 @@
          <li><b>Video Game</b> : God of War and Grand theft Auto</li>
        </ul>
 </details>
-
+--> 
 <p align="center">
 <!--
 <a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
