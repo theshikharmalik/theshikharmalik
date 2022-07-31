@@ -13,9 +13,9 @@ I am a Computer Science Engineering Undergraduate studying at Delhi Technologica
 <p align="center">
   <b>Hello there 👋</b>
   <br><br>
-  I am a Computer Science Engineering Undergraduate studying at Delhi Technological University.
+  I am an Associate Software Engineer at OPTUM(UnitedHealthGroup) working on improving healthcare technologies and supporting the american healthcare industry.
   <br>
-  I'm currently just finishing up my college degree !!
+  I completed my Bachelor's in Computer Science Engineering from Delhi Technological University.
   <br>
 </p>
 <!--
@@ -38,12 +38,10 @@ I am a Computer Science Engineering Undergraduate studying at Delhi Technologica
 <a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 --> 
   <br>
-  <br>
-  <br>
   <i>Lets connect and chat 😃</i>
   <br>
   <br>
-<a href="https://dev.to/shikharmaxx"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://dev.to/theshikharmalik"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 <a href="https://linkedin.com/in/shikharmalik/"><img src="https://img.shields.io/badge/-Linkedin-blue?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://twitter.com/Shikhar_Malik_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://twitter.com/theshikharmalik"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 </p>
