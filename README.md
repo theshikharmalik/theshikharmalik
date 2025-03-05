@@ -13,9 +13,11 @@ I am a Computer Science Engineering Undergraduate studying at Delhi Technologica
 <p align="center">
   <b>Hello there 👋</b>
   <br><br>
-  I am an Associate Software Engineer at OPTUM(UnitedHealthGroup) working on improving healthcare technologies and supporting the american healthcare industry.
+  Currently pursuing my Master's of Science - Computer Science degree at New york University, Tandon School of Engineering (2026).
   <br>
-  I completed my Bachelor's in Computer Science Engineering from Delhi Technological University.
+  I worked for 3 years as an Associate Software Engineer at Optum (UnitedHealthGroup) worked on enterprise level applications that supported the american healthcare industry.
+  <br>
+  I completed my Bachelor's in Computer Science Engineering from Delhi Technological University (2021).
   <br>
 </p>
 <!--
