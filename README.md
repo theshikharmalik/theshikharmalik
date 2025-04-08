@@ -40,7 +40,7 @@ I am a Computer Science Engineering Undergraduate studying at Delhi Technologica
 <a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 --> 
   <br>
-  <i>Lets connect 😃</i>
+  <i>"I’m not the specialist who knows one thing deeply. I’m the weapon you load with a problem and fire in any direction."</i>
   <br>
   <br>
 <!-- <a href="https://dev.to/theshikharmalik"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a> -->
